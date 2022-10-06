@@ -1,7 +1,9 @@
 main {
   max-width: 978px;
   margin: auto;
+  background-color: #eee;
   padding: 15px;
+  height: 100vh;
 }
 
 img {
